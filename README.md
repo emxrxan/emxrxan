@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emirhan</h1>
 <h3 align="center">Frontend Developer</h3>
 
-- 🌱 I’m currently learning **Angular and Node.js**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://emxrxan.github.io/Portfolio/](https://emxrxan.github.io/Portfolio/)
 
