@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://emxrxan.github.io/Portfolio/](https://emxrxan.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://emxrxan.github.io/react-portfolio/)
 
 - 📫 How to reach me **emirgurk@gmail.com**
 
